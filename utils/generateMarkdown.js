@@ -12,13 +12,13 @@ function renderLicense(data) {
 function generateMarkdown(data) {
   return `# Title:      
   ${renderLicense(data)}
-  
+
   ${data.title}
 
   ## Table of Contents
   ---------------------
-  * [Description](#Description)
-  * [Installation](#Installation)
+  * [Description](##Description)
+  * [Installation](##Installation)
   
    ## Description: ${data.description}
    
