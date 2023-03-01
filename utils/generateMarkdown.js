@@ -20,19 +20,33 @@ function generateMarkdown(data) {
   * [Description](##Description)
   * [Installation](##Installation)
   
-   ## Description: ${data.description}
+   ## Description: 
    
-   ## Installation:  ${data.installation}
+   ${data.description}
    
-   ## Usage:  ${data.usage}
+   ## Installation:  
    
-   ## Contribution:  ${data.contribution}
+   ${data.installation}
    
-   ## Tests:  ${data.tests}
+   ## Usage:  
+   
+   ${data.usage}
+   
+   ## Contribution:  
+   
+   ${data.contribution}
+   
+   ## Tests:  
+   
+   ${data.tests}
 
-   ## Questions:   [${data.username}](https://github.com/${data.username})
+   ## Questions:   
+   
+   [${data.username}](https://github.com/${data.username})
 
-   I can be reached by the following email address: ${data.email} 
+   I can be reached by the following email address: 
+   
+   ${data.email} 
   
   `;
 

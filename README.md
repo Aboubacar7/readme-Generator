@@ -4,8 +4,8 @@
 
   ## Table of Contents
   ---------------------
-  * [Description](##Description)
-  * [Installation](##Installation)
+  * [Description](#Description)
+  * [Installation](#Installation)
   
    ## Description: t
    
