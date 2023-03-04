@@ -1,36 +1,44 @@
-# Title:      
+# Title:      eqc
+
   [![Generic badge](https://img.shields.io/badge/<License>-<MIT>-<COLOR>.svg)](https://shields.io/)
-  t
+
+  
 
   ## Table of Contents
   ---------------------
   * [Description](#Description)
   * [Installation](#Installation)
+  * [Usage](#Usage)
+  * [Contribution](#Contribution)
+  * [Tests](#Tests)
+  * [Questions](#Questions)
   
    ## Description: 
    
-   t
+   r2v
    
-   ## Installation: 
+   ## Installation:  
    
-   t
+   rvw
    
    ## Usage:  
    
-   t
+   2ev
    
    ## Contribution:  
    
-   t
+   v2r
    
    ## Tests:  
    
-   t
+   rvw
 
    ## Questions:   
    
-   [t](https://github.com/t)
+   [v2](https://github.com/v2)
 
-   I can be reached by the following email address: t 
+   I can be reached by the following email address: 
+   
+   ve2 
   
   

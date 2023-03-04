@@ -10,15 +10,20 @@ function renderLicense(data) {
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
-  return `# Title:      
+  return `# Title:      ${data.title}
+
   ${renderLicense(data)}
 
-  ${data.title}
+  
 
   ## Table of Contents
   ---------------------
   * [Description](##Description)
   * [Installation](##Installation)
+  * [Usage](##Usage)
+  * [Contribution](##Contribution)
+  * [Tests](##Tests)
+  * [Questions](##Questions)
   
    ## Description: 
    
