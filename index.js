@@ -55,7 +55,7 @@ function init() {
         },
     ])
         .then((data) => {
-            fs.writeFile('README', generateMarkdown(data), (err) => {
+            fs.writeFile('README.md', generateMarkdown(data), (err) => {
                 err ? console.log(err) : console.log('success!')
             })
         })
