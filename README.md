@@ -1,4 +1,4 @@
-# Title:      eqc
+# Title:      Readme Generator
 
   [![Generic badge](https://img.shields.io/badge/<License>-<MIT>-<COLOR>.svg)](https://shields.io/)
 
@@ -6,39 +6,39 @@
 
   ## Table of Contents
   ---------------------
-  * [Description](#Description)
-  * [Installation](#Installation)
-  * [Usage](#Usage)
-  * [Contribution](#Contribution)
-  * [Tests](#Tests)
-  * [Questions](#Questions)
+  * [Description](##Description)
+  * [Installation](##Installation)
+  * [Usage](##Usage)
+  * [Contribution](##Contribution)
+  * [Tests](##Tests)
+  * [Questions](##Questions)
   
    ## Description: 
    
-   r2v
+   A command line application that accepts user input and generate a readme file.
    
    ## Installation:  
    
-   rvw
+   clone the repositori, npm install, npm start.
    
    ## Usage:  
    
-   2ev
+   When I'm prompted for information about my readme, I can enter detailed information and a readme file is generated.
    
    ## Contribution:  
    
-   v2r
+   create a branch and make a pull request.
    
    ## Tests:  
    
-   rvw
+   Testing is enabled for the app.
 
    ## Questions:   
    
-   [v2](https://github.com/v2)
+   [Aboubacar7](https://github.com/Aboubacar7)
 
    I can be reached by the following email address: 
    
-   ve2 
+   Abdrago17@yahoo.com 
   
   
