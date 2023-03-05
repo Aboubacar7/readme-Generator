@@ -6,12 +6,12 @@
 
   ## Table of Contents
   ---------------------
-  * [Description](#Description)
-  * [Installation](#Installation)
-  * [Usage](#Usage)
-  * [Contribution](#Contribution)
-  * [Tests](#Tests)
-  * [Questions](#Questions)
+  * [Description](##Description)
+  * [Installation](##Installation)
+  * [Usage](##Usage)
+  * [Contribution](##Contribution)
+  * [Tests](##Tests)
+  * [Questions](##Questions)
   
    ## Description: 
    
@@ -19,19 +19,19 @@
    
    ## Installation:  
    
-   clone the repositori, npm install, npm start.
+   Clone the repositori, npm install, npm start.
    
    ## Usage:  
    
-   When I'm prompted for information about my readme, I can enter detailed information and a readme file is generated.
+   When I'm prompted for the information about my readme, I can enter detailed information and a readme file is generated.
    
    ## Contribution:  
    
-   create a branch and make a pull request.
+   Create a branch and make a pull request.
    
    ## Tests:  
    
-   Testing is enabled for the app.
+   Testing is enabled for this app.
 
    ## Questions:   
    
