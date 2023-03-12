@@ -1,9 +1,9 @@
-// TODO: Include packages needed for this application
+// TODO: Including packages needed for this application
 const inquirer = require('inquirer')
 const fs = require("fs")
 const generateMarkdown = require('./utils/generateMarkdown')
 
-// TODO: Create a function to initialize app
+// TODO: Creating a init function to initialize app
 function init() {
 
     inquirer.prompt([
@@ -62,6 +62,6 @@ function init() {
 
 }
 
-// Function call to initialize app
+// calling init function to initialize app
 init();
 
