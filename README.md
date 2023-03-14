@@ -2,7 +2,7 @@
 
   [![Generic badge](https://img.shields.io/badge/<License>-<MIT>-<COLOR>.svg)](https://shields.io/)
 
-  
+
 
   ## Table of Contents
   ---------------------
